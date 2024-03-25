@@ -4,7 +4,7 @@
 
 
 
-import { INCREASE,DECREASE,RESET } from "../actions/actionTypes";
+import { INCREASE, DECREASE, RESET } from "../actions/actionTypes.js";
 
 const InitialState=0;
 // reducers take 2 parameters (state(currentvalue),action) 
